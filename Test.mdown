@@ -1,3 +1,4 @@
-##WritingTest
+##Potential Topics
 
-This is a writing test
+* The role of design in product
+* Design vs UX (this one came from product collective, and we might have a chance to contribute our thoughts)
