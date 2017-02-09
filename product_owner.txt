@@ -1,33 +1,30 @@
 Product Ownership and Work of the Highest Value
 
-
-Today I overheard the following:
-
 “I’ve never been a product owner before so I am not exactly sure what I should be doing”
 
-So… what is the role of the product owner? 
+What should a Product Owner be focused on? What does it mean to “own” the product? Why does work feel disjointed and lack meaningful flow and sequence?
 
-Thinking about this has helped me begin to understand some of the pain I’ve been having these past few weeks. What should a Product Owner be focused on? What does it mean to “own” the product? Why doe we seem to be struggling with making decisions or setting priority? 
+
 
 Provocation 1: 
-The job of the PO is to determine acceptance criteria and pull new work when there is capacity.
+The job of the PO is to determine acceptance criteria and pull the highest value work when there is capacity.
 
-This is the definition I am currently working in. Given this definition, the role of the product owner is to make decisions. This, not that. Here’s what it means to be successful.
+This becomes problematic when, from the product owner’s perspective, the WHOLE PROJECT is the highest value work. 
 
-This becomes problematic when, from the product owner’s perspective, the WHOLE PROJECT is the highest value thing. 
-
-This becomes problematic when the product owner understands value-based  prioritization but the locus of value for the PO—or above the PO—shifts frequently.
-
-This becomes problematic when more fundamental Ownership work hasn’t been completed.
+This becomes problematic when the locus of value for the PO—or above the PO—shifts frequently.
 
 
 
-Fundamental ownership
 
-The fundamental job of the PO is to construct information flows from the customer to the product team. 
+Parts of Ownership
 
-These flows help define value, act as a regulator for pulling work, and contribute to the synthesis of new concepts. 
+Part of ownership is the construction of information flows from the customer to the product team. 
 
-This labor strikes me as the vertex between the design and business points in the rouleaux triangle. 
+These flows act as a regulator for pulling work and become fodder for the synthesis of new concepts. 
+
+This labor strikes me as the vertex between the design and business points in the rouleaux triangle—so maybe this is a collaborative labor between the designer and the owner to establish the information flow—and to establish how the information flow is piped into the project... how to use the information to guide/regulate the pulling of work?
+
+
+
 
 
