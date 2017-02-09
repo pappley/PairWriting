@@ -1,0 +1,13 @@
+http://setosa.io/ev/principal-component-analysis/
+
+Been thinking about PCA a lot lately and how it relates to design synthesis  and “connecting the dots”/making the abductive leap.
+
+PCA is pattern identifier and dimension reducer. PCA identifies axes/dimensions—“principle components”—that highlight the highest variations/spacings in clusters of data. See the UK example: the Principle Component Analysis identified a principle component which clustered Wales, England and Scotland together but left N Ireland as an outlier—highly separated.
+
+The thing I am stuck on is that when we’re looking at something the “3D Example”, we have really good separation along PC1, but we then have really good CLUSTERING along PC3. 
+
+I am not even sure what to make of this… but it strikes me as important to the notion that X Y Z clusters are VERY different, but also VERY similar.
+
+…maybe that’s not that interesting, but MAN is it stuck in my head.
+
+
