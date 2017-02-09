@@ -5,7 +5,7 @@ Spatial, rather than linear
 Explicitly(?) iterative
 Places making and understanding in opposition
 Places abstract and real in opposition
-
+Could be disassembled and recombined into a linear sequence of different orders...
 
 2. Double Diamond DCUK
 Explicitly linear
@@ -15,8 +15,24 @@ Can be construde as a spatial map placing the second diamond beneath
 diverging on the problem, converging on the problem
 diverging on the solution, converging on the solution
 
-Not sure if this maps well to Kumar...
-Abstraction/synthesis is an important concept isn't well highlighted by DD
+Does DD map to Kumar as: divergence ~ "abstraction" and convergence ~ "real"... but then the concept of problems/solutions doesn't map at all to making and understanding 
+
+Abstraction ~ Understanding
+Real ~ Making
+
+Problems ~ Abstract
+Solutions ~ Real
+???
+
+I am not concered that there IS a direct map, I am just curious about what it means to have these different, but similar ways of thinking..
+
+
+Here's an interesting link from thoughtworks that A.) contextualizes the linearity of DD with its history in industrial design (need linearity)
+
+Also, nests Eric Reis B/M/L loop in the "deliver" diamond
+https://www.thoughtworks.com/insights/blog/double-diamond
+
+
 
 
 3. Manzini
@@ -34,6 +50,10 @@ It's sortve like "making dinner"—that's a result of a bunch of sub-steps, you 
 
 
 1. Reis
+
+P. INTERESTING
+
+
 
 2. Product Pyramid from Ken H.
 
