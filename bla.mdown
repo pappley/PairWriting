@@ -1,15 +1,36 @@
-Comparing Design Thinking with Product Thinking
-
-
+Design Thinking, Product Thinking
 
 1. Kumar
+Spatial, rather than linear
+Explicitly(?) iterative
+Places making and understanding in opposition
+Places abstract and real in opposition
 
-2. DCUK
+
+2. Double Diamond DCUK
+Explicitly linear
+Explicitly dilineates convergent/divergent thinking
+
+Can be construde as a spatial map placing the second diamond beneath
+diverging on the problem, converging on the problem
+diverging on the solution, converging on the solution
+
+Not sure if this maps well to Kumar...
+Abstraction/synthesis is an important concept isn't well highlighted by DD
+
 
 3. Manzini
+spatial map
+non-iterative
+sensemaking and problem solving are in opposition
+expert design and diffuse design are in opposition
 
 
 
+"Problem solving" has always been a sticky statement for me. 
+Is problem solving not a result of the process, rather than a moment point or specific endeavor? 
+It's a collective result, rather than a conscious action. 
+It's sortve like "making dinner"—that's a result of a bunch of sub-steps, you cannot "make dinner" as an act...?
 
 
 1. Reis
