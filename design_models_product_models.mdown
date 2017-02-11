@@ -3,9 +3,14 @@ Design Models, Product Models
 1. Kumar
 Spatial, rather than linear
 Explicitly(?) iterative
-Places making and understanding in opposition
-Places abstract and real in opposition
-Could be disassembled and recombined into a linear sequence of different orders...
+No, not explicitly iterative just, not linear. Kumar does discuss in the intro to the book that the model OUGHT to be able to be explored in any order, though it simultaneous suggests an order because of the order of the book... (uh, linear)
+
+Making and understanding in opposition
+Abstract and real in opposition
+
+
+
+
 
 2. Double Diamond DCUK
 Explicitly linear

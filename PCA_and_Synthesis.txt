@@ -6,8 +6,17 @@ PCA is pattern identifier and dimension reducer. PCA identifies axes/dimensions�
 
 The thing I am stuck on is that when we’re looking at something the “3D Example”, we have really good separation along PC1, but we then have really good CLUSTERING along PC3. 
 
-I am not even sure what to make of this… but it strikes me as important to the notion that X Y Z clusters are VERY different, but also VERY similar.
+I am not even sure what to make of this… but it strikes me as important to the notion that clusters 1 2 and 3 are VERY separate along axis X, but also VERY strong alignment when viewed on axis Yprime.
 
 …maybe that’s not that interesting, but MAN is it stuck in my head.
+
+I’ve been wondering if “reframing” is comparable to changing the axes of reference to identify a principle component (dragging around the plot in the 3D example). 
+
+Reframing isn’t just a “different way of looking at things”… it’s a perspective which places importance on a particular axis that creates alignment/connection among some data, which from the most logical/rational vantage, appears to be extraordinarily separate.
+
+Maybe design framing is actually the opposite of PCA?
+
+In PCA you’re searching for the greatest SEPARATION—this is PC1—but in design you are looking for the greatest interrelation—PC2, which in the example is be the 90˚ Y axis transform from PC1.
+
 
 
