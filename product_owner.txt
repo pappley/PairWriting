@@ -30,23 +30,27 @@ The word ownership brings with it a singular responsibility that perhaps  impeed
 - Ownership can mean precedence natives/colonists
 
 
-Moreover, the term “product owner” seems to have been bastardized from its origins of referring to someone who ACTUALLY HAS PURCHASED AND THEREFORE OWNS the product… which would just be another way of saying “customer”. And if there is no direct line of communication to the customer, there needs to be a proxy of information and someone to ADVOCATE for the customer. 
+Moreover, the term “product owner” seems to have been bastardized from its origins of referring to someone who purchased and therefore owns the product… which would just be another way of saying “customer”. And if there is no direct line of communication to the customer, there needs to be a proxy of information and someone to ADVOCATE for the customer. 
 
+Maybe We need lawyers, we need public defenders. We need hats. Wearing any hat from the rouleaux grants you the ability to advocate solely for that role. Design advocates for people, Engineering advocates for machines, Business advocates for the business. The product leader, steers the ship by listening to the arguments of these advocates.
 
+The transmission of information is everyone's job. The gathering of information is everyone's job. The kind of information gathered, and the way it's shared and used to make decisions feels like something that clearly distinguishes valuable teams (and products) from teams (and products) that may fail.
 
-Instead, maybe there should be responsibility: Someone needs to be responsible for finding/listening/representing the customers' and users' needs (explicit and implicit); someone needs to be responsible for the construction of the product, to satisfy those needs in way that engages the customer and user; someone needs to be responsible for making sure the path forward is sustainable, profitable(?), and cleared of obstacles.
+Although, I have limited experience building deep chains of evidence, there seems to be indisputable evidence in having a record of Defined Problems, Proposed Solutions, Extracted Assumptions, Observed Evidence, Responding Actions, Validating Tests etc etc… this is a way from transforming what a group of people THINKS to a record of what is and what isn’t (some form of KAHL—what we KNOW, what we ASSUME, HOW we will learn, what we LEARNED, which then becomes what we KNOW…)
 
-Each one of these responsibilities is not a one person job. It is some combination of the team members that work to do this. 
-
-Maybe We need LAWYERS, we need public defenders. We need hats. Wearing any hat from the rouleaux grants you the ability to advocate solely for that role. Design advocates for people, Engineering advocates for machines, Business advocates for the business. The product leader, steers the ship by listening to the arguments of these advocates.
-
-The transmition of information is everyone's job. The gathering of information is everyone's job. The kind of information gathered, and the way it's shared and used to make decisions feels like something that clearly distinguishes valuable teams (and products) from teams (and products) that may fail.
-
-Although, I have limited experience building deep chains of evidence, there seems to be indisputable evidence in having a record of Defined Problems, Proposed Solutions, Extracted Assumptions, Observed Evidence, Responding Actions, Validating Tests etc etc… this is a way from transforming what a group of people THINKS to a record of what is and what isn’t 
 
 
 ### Responsiblity for representing the customer
+
+Maybe there should be responsibility: Someone needs to be responsible for finding/listening/representing the customers' and users' needs (explicit and implicit); someone needs to be responsible for the construction of the product, to satisfy those needs in way that engages the customer and user; someone needs to be responsible for making sure the path forward is sustainable, profitable(?), and cleared of obstacles.
+
+Each one of these responsibilities is not a one person job. It is some combination of the team members that work to do this. Are these the vertices of the triangle/the overlapping pairs of the Rouleaux venn diagram? Design-Biz, Biz-Engineering, Engineering-Design…?
+
+
 - This labor strikes me as the vertex between the design and business points in the rouleaux triangle—so maybe this is a collaborative labor between the designer and the owner to establish the information flow—and to establish how the information flow is piped into the project... how to use the information to guide/regulate the pulling of work?
+
+
+
 
 
 ---
@@ -55,4 +59,7 @@ Everything I wrote above I believe in, but I'm not sure my life experience alway
 
 Need to find reference for this, but I remember reading something which outlined a relationship between group hierarchy and time. The essence was that things must start out highly hierarchical to benefit from the clarity of direction and avoid beginning with gridlock. As groups move forward, the hierarchy decomposes into a more collaborative, egalitarian group. 
 
-It seems this might be appropriate model perhaps for new projects where there is no existing relationship, but 
+It seems this might be appropriate model perhaps for some types of projects…but it feels like for the the internal products team, an egalitarian mode at the beginning, where we focus on sense-making, and gain a collective understanding of where we are going at a high level would make a difference—as opposed to having a product owner set the direction. It’s like… a RAID, the information isn’t stored or referenced in a single place, the information for decision making is distributed across multiple locations. 
+
+It also strikes me that the formative work of the studio—deep dives, canvases etc. etc.—is in part an effort to gain this type of collective understanding (not blow up client ideas…)
+
